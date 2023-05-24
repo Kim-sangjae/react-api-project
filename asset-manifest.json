@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goodStore-app/static/css/main.e5cef853.css",
+    "main.js": "/goodStore-app/static/js/main.2a91ec8c.js",
+    "static/js/787.db7395ea.chunk.js": "/goodStore-app/static/js/787.db7395ea.chunk.js",
+    "index.html": "/goodStore-app/index.html",
+    "main.e5cef853.css.map": "/goodStore-app/static/css/main.e5cef853.css.map",
+    "main.2a91ec8c.js.map": "/goodStore-app/static/js/main.2a91ec8c.js.map",
+    "787.db7395ea.chunk.js.map": "/goodStore-app/static/js/787.db7395ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5cef853.css",
+    "static/js/main.2a91ec8c.js"
+  ]
+}
